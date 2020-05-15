@@ -1,0 +1,16 @@
+Włącz piszesz: npm start
+
+Obudowałem tą podstawową funkcje podłączania do bazy w jakiś routing i takie rzeczy
+Stronki są renderowane w czymś co się nazywa [ejs]
+Nie działa coś podłączanie CSS - a jest dobrze zrobinone tylko w chuja leci
+
+Możecie coś popatrzeć o express js bo w tym jest zrobiony cały routing i można 
+wysyłaś request i respondy co jest akurat fajną opcją
+
+Niezlą opcją byłoby podłączenie do tego bootstrapa to byśmy nie musieli się bawić
+w wygląd bo by samo się generowało
+
+Tu macie link do filmiku bo gość robi takie coś co my tylko na mysql a to się niczym 
+nie różni w tym przypadku
+
+https://www.youtube.com/watch?v=mLLUqMpf5H0
